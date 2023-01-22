@@ -13,8 +13,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 //http://localhost:8080/dogapi/createdog
 
-//Test one
-
 
 @SpringBootApplication
 @EnableJpaAuditing
